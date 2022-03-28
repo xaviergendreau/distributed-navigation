@@ -27,6 +27,11 @@ header {
   padding: .75em 1em .6em;
 }
 
+header h1 {
+  margin: 0;
+  padding: .5rem;
+}
+
 header img {
   width: 2.25em;
   order: -1;
@@ -55,7 +60,6 @@ nav a,
 nav a:visited {
   color: #0074d9;
   text-decoration: none;
-  padding: .6rem 1.25rem;
 }
 
 nav a:hover,
